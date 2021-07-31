@@ -8,11 +8,11 @@ The project is also deployed on AWS Beanstalk. [Click here](http://ipldashboard-
 
 ### Team Page
 
-![Team Page](/README/TeamPage.JPG)
+![Team Page](/ipl-dashboard/README/TeamPage.JPG)
 
 ### Matches Page
 
-![Matches Page](/README/MatchesPage.JPG)
+![Matches Page](/ipl-dashboard/README/MatchesPage.JPG)
 
 ## Technologies
 
